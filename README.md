@@ -14,7 +14,7 @@
 </a>
 
 
-&#x202b;![](https://visitor-badge.glitch.me/badge?page_id=0xctf)
+![](https://visitor-badge.glitch.me/badge?page_id=0xctf)
 
 <br />
 
