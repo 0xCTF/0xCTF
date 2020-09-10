@@ -26,7 +26,7 @@ Hi, I'm [Mohamed Jawadi](https://0xmohamed.tn), a unicorn Developer 🚀 from Tu
 - 👨🏽‍💻 I’m currently working on [mywater.site](https://mywater.site)
 - 💬 Ask me about anything. I am happy to help
 - 📫 How to reach me: [@gmail.com](mailto:mohamedjawedi93@gmail.com)
-- 📝[Resume](https://drive.google.com/file/d/1qPewrEuvya1KJLYATz_fkLNKA6LQZMev/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1qPewrEuvya1KJLYATz_fkLNKA6LQZMev/view?usp=sharing)
 - ⭐ [Clients Reviews](https://drive.google.com/file/d/1yHAVoFn0V8DqCTTHsr6Kf3JROW_nrgK8/view?usp=sharing)
 
 **Languages and Tools:**  
