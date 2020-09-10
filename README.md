@@ -15,8 +15,6 @@
 
 <img align="right" width="100" src="https://visitor-badge.glitch.me/badge?page_id=0xctf">
 
-1
-
 
 <br />
 
