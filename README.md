@@ -14,13 +14,13 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=0xctf))
+![](https://visitor-badge.glitch.me/badge?page_id=0xctf)
 
 <br />
 
 Hi, I'm [Mohamed Jawadi](https://0xmohamed.tn), a unicorn Developer 🚀 from Tunisia, currently, I'm a Software Engineering student 🎒, a Moderator in the biggest forum in my county 👀 [@Moha j](https://www.tunisia-sat.com/forums/members/322693/) and an IT Freelancer 💻 [@Mjawadi](https://www.freelancer.com/u/Mjawadi). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/Mohamednaiidu/Mohamednaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Abhisheknaiidu/Mohamednaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -28,7 +28,7 @@ Hi, I'm [Mohamed Jawadi](https://0xmohamed.tn), a unicorn Developer 🚀 from Tu
 - 💬 Ask me about anything. I am happy to help
 - 📫 How to reach me: [@gmail.com](mohamedjawedi93@gmail.com);
 - 📝[Resume](https://drive.google.com/file/d/1qPewrEuvya1KJLYATz_fkLNKA6LQZMev/view?usp=sharing)
-- ⭐ [Clients Reviews] (https://drive.google.com/file/d/1yHAVoFn0V8DqCTTHsr6Kf3JROW_nrgK8/view?usp=sharing)
+- ⭐ [Clients Reviews](https://drive.google.com/file/d/1yHAVoFn0V8DqCTTHsr6Kf3JROW_nrgK8/view?usp=sharing)
 
 **Languages and Tools:**  
 
