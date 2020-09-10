@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/mohamed-jawadi">
   <img align="left" alt="Mohamed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.freelancer.com/u/Mjawadi)">
+<a href="https://www.freelancer.com/u/Mjawadi">
   <img align="left" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg" />
 </a>
 <a href="https://facebook.com/0xmohamed">
