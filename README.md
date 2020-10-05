@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Hi, I'm [Mohamed Jawadi](https://0xmohamed.tn), a unicorn Developer 🚀 from Tunisia, currently, i'm a Software Engineering student 🎒, a Moderator in the biggest forum in my county 👀 [@Moha j](https://www.tunisia-sat.com/forums/members/322693/) and an IT Freelancer 💻 [@Mjawadi](https://www.freelancer.com/u/Mjawadi). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Mohamed Jawadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 from Tunisia, currently, i'm a Software Engineering student 🎒, a Moderator in the biggest forum in my county 👀 [@Moha j](https://www.tunisia-sat.com/forums/members/322693/) and an IT Freelancer 💻 [@Mjawadi](https://www.freelancer.com/u/Mjawadi). Beside's programming, I enjoy eating food and traveling.
 
   
 **Talking about Personal Stuffs:**
