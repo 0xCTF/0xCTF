@@ -26,11 +26,11 @@ Hi, I'm [Mohamed Jawadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 fro
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [mywater.site](https://mywater.site)
+- 👨🏽‍💻 Co-founder [mywater.site](https://mywater.site)
 - 💬 Ask me about anything. I am happy to help
-- 📫 How to reach me: [@gmail.com](mailto:mohamedjawedi93@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1qPewrEuvya1KJLYATz_fkLNKA6LQZMev/view?usp=sharing)
-- ⭐ [Clients Reviews](https://drive.google.com/file/d/1yHAVoFn0V8DqCTTHsr6Kf3JROW_nrgK8/view?usp=sharing)
+- 📫 How to reach me: [@gmail.com](mailto:0xmohamedev@gmail.com)
+- 📝 [Resume]([https://drive.google.com/file/d/1qPewrEuvya1KJLYATz_fkLNKA6LQZMev/view?usp=sharing](https://docs.google.com/document/d/1porbd8vOVnDs461lNTUTo3Xnb8_Td5Gt/edit?usp=sharing&ouid=110448290435593929173&rtpof=true&sd=true))
+- ⭐ [Clients Reviews](https://drive.google.com/file/d/1-lyjG0tM61zj_TSw1zXHFoSN0Nk5LIdZ/view?usp=sharing)
 
 **Languages and Tools:**  
 
