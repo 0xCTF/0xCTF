@@ -5,7 +5,8 @@ Hi, I'm [Mohamed Jaouadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 fr
 Here's a little about what I'm currently up to:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xCTF&show_icons=true&theme=gotham" alt="0xCTF" />
-
+<br />
+<br />
   
 <a href="https://www.linkedin.com/in/mohamed-jaouadi">
   <img align="center" alt="Mohamed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
