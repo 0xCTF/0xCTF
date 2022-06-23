@@ -4,6 +4,12 @@ Hi, I'm [Mohamed Jaouadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 fr
 
 Here's a little about what I'm currently up to:
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xCTF&show_icons=true&theme=gotham" alt="0xCTF" />
+  
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=0Xctf&show_icons=true&line_height=17&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/0xCTF/github-readme-stats)
+
+<!--- ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCTF&show_icons=true&layout=compact&theme=dark&langs_count=8)](https://github.com/0xCTF/github-readme-stats)) -->
+  
 <a href="https://www.linkedin.com/in/mohamed-jaouadi">
   <img align="left" alt="Mohamed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -52,11 +58,4 @@ Here's a little about what I'm currently up to:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xCTF&show_icons=true&theme=gotham" alt="0xCTF" />
-
 
