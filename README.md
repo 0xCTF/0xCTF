@@ -1,4 +1,8 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+# Hello Fellow Human!
+
+Hi, I'm [Mohamed Jaouadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 from Tunisia, currently, I'm a Master's degree student in computer science🎒.
+
+Here's a little about what I'm currently up to:
 
 <a href="https://www.linkedin.com/in/mohamed-jaouadi">
   <img align="left" alt="Mohamed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,7 +25,6 @@
 <br />
 <br />
 
-Hi, I'm [Mohamed Jawadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 from Tunisia, currently, i'm a Software Engineering student 🎒, a Moderator in the biggest forum in my county 👀 [@Moha j](https://www.tunisia-sat.com/forums/members/322693/) and an IT Freelancer 💻 [@Mjawadi](https://www.freelancer.com/u/Mjawadi). Beside's programming, I enjoy eating food and traveling.
 
   
 **Talking about Personal Stuffs:**
