@@ -21,7 +21,7 @@ Here's a little about what I'm currently up to:
   <img align="center" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<img align="right" width="100" src="https://visitor-badge.glitch.me/badge?page_id=0xctf"></img>
+<img align="center" width="100" src="https://visitor-badge.glitch.me/badge?page_id=0xctf"></img>
 
 
 <br />
