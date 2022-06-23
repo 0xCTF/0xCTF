@@ -1,6 +1,6 @@
 # Hello Fellow Human!
 
-Hi, I'm [Mohamed Jaouadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 from Tunisia, currently, I'm a Master's degree student in computer science🎒.
+I'm [Mohamed Jaouadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 from Tunisia, currently, I'm a Master's degree student in computer science🎒.
 
 Here's a little about what I'm currently up to:
 
