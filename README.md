@@ -5,22 +5,19 @@ Hi, I'm [Mohamed Jaouadi](https://www.0xmohamed.tn), a unicorn Developer 🚀 fr
 Here's a little about what I'm currently up to:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xCTF&show_icons=true&theme=gotham" alt="0xCTF" />
-  
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=0Xctf&show_icons=true&line_height=17&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/0xCTF/github-readme-stats)
 
-<!--- ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCTF&show_icons=true&layout=compact&theme=dark&langs_count=8)](https://github.com/0xCTF/github-readme-stats)) -->
   
 <a href="https://www.linkedin.com/in/mohamed-jaouadi">
-  <img align="left" alt="Mohamed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Mohamed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.freelancer.com/u/Mjawadi">
-  <img align="left" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg" />
+  <img align="center" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg" />
 </a>
 <a href="https://facebook.com/0xmohamed">
-  <img align="left" alt="Mohamed's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="center" alt="Mohamed's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/mohagraphie/">
-  <img align="left" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/0xmohamedev/">
+  <img align="center" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <img align="right" width="100" src="https://visitor-badge.glitch.me/badge?page_id=0xctf"></img>
@@ -34,9 +31,8 @@ Here's a little about what I'm currently up to:
 
   
 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 Co-founder [mywater.site](https://mywater.site)
-- 💬 Ask me about anything. I am happy to help
+- 🔥 I am an Android developer
+- 💬 Ask me about Android. I am happy to help.
 - 📫 How to reach me: [@gmail.com](mailto:0xmohamedev@gmail.com)
 - 📝 [Resume](https://docs.google.com/document/d/1porbd8vOVnDs461lNTUTo3Xnb8_Td5Gt/edit?usp=sharing&ouid=110448290435593929173&rtpof=true&sd=true)
 - ⭐ [Clients Reviews](https://drive.google.com/file/d/1-lyjG0tM61zj_TSw1zXHFoSN0Nk5LIdZ/view?usp=sharing)
