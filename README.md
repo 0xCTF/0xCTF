@@ -36,8 +36,7 @@ Here's a little about what I'm currently up to:
 - 🔥 I am an Android developer.
 - 💬 Ask me about Android. I am happy to help.
 - 📫 How to reach me: [@gmail.com](mailto:0xmohamedev@gmail.com)
-- 📝 [Resume](https://docs.google.com/document/d/1porbd8vOVnDs461lNTUTo3Xnb8_Td5Gt/edit?usp=sharing&ouid=110448290435593929173&rtpof=true&sd=true)
-- ⭐ [Clients Reviews](https://drive.google.com/file/d/1-lyjG0tM61zj_TSw1zXHFoSN0Nk5LIdZ/view?usp=sharing)
+
 
 **Languages and Tools:**  
 
