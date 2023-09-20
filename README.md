@@ -11,14 +11,8 @@ Here's a little about what I'm currently up to:
 <a href="https://www.linkedin.com/in/mohamed-jaouadi">
   <img align="center" alt="Mohamed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.freelancer.com/u/Mjawadi">
-  <img align="center" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg" />
-</a>
 <a href="https://facebook.com/0xmohamed">
   <img align="center" alt="Mohamed's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/0xmohamedev/">
-  <img align="center" alt="Mohamed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 <br />
