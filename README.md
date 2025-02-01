@@ -1,19 +1,13 @@
 # Hello Fellow Human!
 
-I'm Mohamed Jaouadi, a unicorn Developer 🚀 from Tunisia.
+I'm Mohamed Jaouadi, Android Developer 🚀 from Tunisia.
 
 Here's a little about what I'm currently up to:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xCTF&show_icons=true&theme=gotham" alt="0xCTF" />
 <br />
 <br />
-  
-<a href="https://www.linkedin.com/in/mohamed-jaouadi">
-  <img align="center" alt="Mohamed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://facebook.com/0xmohamed">
-  <img align="center" alt="Mohamed's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
 <br />
 <br />
 <img align="center" width="100" src="https://visitor-badge.glitch.me/badge?page_id=0xctf"></img>
@@ -29,7 +23,7 @@ Here's a little about what I'm currently up to:
 **Talking about Personal Stuffs:**
 - 🔥 I am an Android developer.
 - 💬 Ask me about Android. I am happy to help.
-- 📫 How to reach me: [@gmail.com](mailto:0xmohamedev@gmail.com)
+- 📫 How to reach me: [@gmail.com](mailto:mjaouadi1337@gmail.com)
 
 
 **Languages and Tools:**  
