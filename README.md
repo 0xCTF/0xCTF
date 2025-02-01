@@ -7,15 +7,6 @@ Here's a little about what I'm currently up to:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xCTF&show_icons=true&theme=gotham" alt="0xCTF" />
 <br />
 <br />
-
-<br />
-<br />
-<img align="center" width="100" src="https://visitor-badge.glitch.me/badge?page_id=0xctf"></img>
-
-
-<br />
-<br />
-<br />
 <br />
 
 
