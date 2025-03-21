@@ -6,7 +6,7 @@ Here's a little about what I'm currently up to:
 
   
 **Talking about Personal Stuffs:**
-- 🔥 I am an Android developer.
+- 🤖 Passionate about Android development.
 - 💬 Ask me about Android. I am happy to help.
 - 📫 How to reach me: [@gmail.com](mailto:mjaouadi1337@gmail.com)
 
