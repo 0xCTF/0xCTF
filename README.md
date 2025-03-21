@@ -4,12 +4,6 @@ I'm Mohamed Jaouadi, Android Developer 🚀 from Tunisia.
 
 Here's a little about what I'm currently up to:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0xCTF&show_icons=true&theme=gotham" alt="0xCTF" />
-<br />
-<br />
-<br />
-
-
   
 **Talking about Personal Stuffs:**
 - 🔥 I am an Android developer.
